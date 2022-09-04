@@ -3,3 +3,19 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
+Console.Write("Введите первое число, a ");
+int a = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число, b ");
+int b = int.Parse(Console.ReadLine());
+
+if (a > b)
+{
+    Console.Write($"a = {a}; b = {b} -> max = {a} ");
+}
+else
+{
+    Console.Write($"a = {a}; b = {b} -> max = {b} ");
+}
+
+
+
