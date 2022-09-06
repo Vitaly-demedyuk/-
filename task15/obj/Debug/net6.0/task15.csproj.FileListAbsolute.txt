@@ -1,0 +1,15 @@
+/Users/vetal/Desktop/Дз 1/task15/bin/Debug/net6.0/task15
+/Users/vetal/Desktop/Дз 1/task15/bin/Debug/net6.0/task15.deps.json
+/Users/vetal/Desktop/Дз 1/task15/bin/Debug/net6.0/task15.runtimeconfig.json
+/Users/vetal/Desktop/Дз 1/task15/bin/Debug/net6.0/task15.dll
+/Users/vetal/Desktop/Дз 1/task15/bin/Debug/net6.0/task15.pdb
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/task15.csproj.AssemblyReference.cache
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/task15.AssemblyInfoInputs.cache
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/task15.AssemblyInfo.cs
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/task15.csproj.CoreCompileInputs.cache
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/task15.dll
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/refint/task15.dll
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/task15.pdb
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/task15.genruntimeconfig.cache
+/Users/vetal/Desktop/Дз 1/task15/obj/Debug/net6.0/ref/task15.dll
